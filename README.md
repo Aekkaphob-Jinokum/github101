@@ -11,6 +11,4 @@ npm i
 
 1
 
-
-
-lol this is kinda peak not gonna lie
+This is the test
